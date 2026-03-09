@@ -135,7 +135,7 @@ Esta posición es para un desarrollador Full Stack que trabajará en proyectos d
   - Comunicarse clara y efectivamente con todos los miembros del equipo.
 
 
-#### Oferta 5: FULL STACK WEB DEVELOPER en Q6Cyber
+#### Oferta 5: Full Stack Web Developer en Q6Cyber
 
 **Análisis del Puesto:**
 Este rol es para un desarrollador Full Stack que liderará la experiencia de usuario en la web, con un énfasis muy fuerte en **seguridad**. El candidato no solo desarrollará, sino que también tomará decisiones tecnológicas clave y "será dueño" de la experiencia del usuario final.
@@ -190,7 +190,7 @@ Analizando las 5 ofertas, emergen claras tendencias sobre lo que el mercado busc
     - **Diversidad:** Se valora tanto el conocimiento de SQL (MySQL, PostgreSQL, SQL Server) como de NoSQL (MongoDB, Elasticsearch). La oferta de Varicent pone un énfasis especial en la optimización de bases de datos.
     - **Modelado:** La capacidad de modelar datos es crucial, especialmente en perfiles con más peso de backend (Varicent, Q6Cyber).
 
-5.  **Habilidades Blandas Estratégicas:**
+5.  **Habilidades Blandas:**
     - **Comunicación y Colaboración:** Es la habilidad blanda más repetida. Se busca a alguien que pueda trabajar eficazmente con equipos multidisciplinarios (producto, diseño, negocio) y stakeholders remotos.
     - **Autonomía y Proactividad:** Las empresas buscan profesionales que puedan "operar independientemente", "tomar decisiones", "recomendar mejoras" y "ser dueños" de su trabajo.
     - **Resolución de Problemas:** Una capacidad fundamental, mencionada explícitamente como "debugging" o "pensamiento crítico".
@@ -270,6 +270,6 @@ El prototipo incluye las siguientes secciones principales, diseñadas para ser c
 
 ## Enlaces del Proyecto
 
-*   **Repositorio en GitHub:** [PEGA AQUÍ EL ENLACE A TU REPOSITORIO]
-*   **Sitio Publicado (GitHub Pages):** [PEGA AQUÍ EL ENLACE A TU SITIO WEB]
-*   **Prototipo en Figma:** [PEGA AQUÍ EL ENLACE A FIGMA]
+*   **Repositorio en GitHub:** https://github.com/v-arley/portfolio-lb
+*   **Sitio Publicado (GitHub Pages):** https://v-arley.github.io/portfolio-lb/
+*   **Prototipo en Figma:** https://www.figma.com/design/QEVqQAYTSsO1t2cznmd8BM/Actividad1?m=auto&t=GPpacdSruECcJU4q-6
